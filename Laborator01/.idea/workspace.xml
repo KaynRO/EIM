@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5c1baf4-6331-4e53-b2b3-c05e650fa198" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1pXTYAK4XUKgsttRFEkorxvMZFU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/labtasks/MyFirstAndroidApplication" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5c1baf4-6331-4e53-b2b3-c05e650fa198" name="Default Changelist" comment="" />
+      <created>1615328479633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615328479633</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="151" key="#Project_Structure" timestamp="1615328641332">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="410" y="151" key="#Project_Structure/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1615328641332" />
+    <state x="384" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615328569185">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="384" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1615328569185" />
+    <state x="329" y="176" width="1200" height="800" key="AVDManager" timestamp="1615328615314">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="329" y="176" width="1200" height="800" key="AVDManager/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1615328615314" />
+    <state x="710" y="331" key="FileChooserDialogImpl" timestamp="1615328653171">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="710" y="331" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1615328653171" />
+  </component>
+</project>
